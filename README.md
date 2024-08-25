@@ -4,10 +4,10 @@
 ### Soundtrack Mod: Stickwar
 This Mod Includes
 
-> Station Graphics
-> Asset Files
-> GFX Files
-> 7 Awsome Soundtracks
+> Station Graphics <br>
+> Asset Files <br>
+> GFX Files <br>
+> 7 Awsome Soundtracks <br>
 > Template Files
 
 ### Questions
