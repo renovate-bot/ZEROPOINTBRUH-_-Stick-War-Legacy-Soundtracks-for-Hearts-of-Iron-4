@@ -1,0 +1,63 @@
+music_station = "stickwar_station"
+music = {
+	song = "Battle_of_the_Shadow_Elves"
+	chance = {
+		modifier = {
+			factor = 3
+		}
+	}
+}
+music_station = "stickwar_station"
+music = {
+	song = "Entering_the_Stronghold"
+	chance = {
+		modifier = {
+			factor = 3
+		}
+	}
+}
+music_station = "stickwar_station"
+music = {
+	song = "Etoll_Battle_Dawn"
+	chance = {
+		modifier = {
+			factor = 3
+		}
+	}
+}
+music_station = "stickwar_station"
+music = {
+	song = "Field_of_Memories"
+	chance = {
+		modifier = {
+			factor = 3
+		}
+	}
+}
+music_station = "stickwar_station"
+music = {
+	song = "Gates_Of_Hell"
+	chance = {
+		modifier = {
+			factor = 3
+		}
+	}
+}
+music_station = "stickwar_station"
+music = {
+	song = "Gathering_Shadows"
+	chance = {
+		modifier = {
+			factor = 3
+		}
+	}
+}
+music_station = "stickwar_station"
+music = {
+	song = "Stick_War_Oblivion"
+	chance = {
+		modifier = {
+			factor = 3
+		}
+	}
+}

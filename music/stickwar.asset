@@ -1,0 +1,28 @@
+music = {
+	name = "Battle_of_the_Shadow_Elves"
+	file = "Battle_of_the_Shadow_Elves.ogg"
+}
+music = {
+	name = "Entering_the_Stronghold"
+	file = "Entering_the_Stronghold.ogg"
+}
+music = {
+	name = "Etoll_Battle_Dawn"
+	file = "Etoll_Battle_Dawn.ogg"
+}
+music = {
+	name = "Field_of_Memories"
+	file = "Field_of_Memories.ogg"
+}
+music = {
+	name = "Gates_Of_Hell"
+	file = "Gates_Of_Hell.ogg"
+}
+music = {
+	name = "Gathering_Shadows"
+	file = "Gathering_Shadows.ogg"
+}
+music = {
+	name = "Stick_War_Oblivion"
+	file = "Stick_War_Oblivion.ogg"
+}
