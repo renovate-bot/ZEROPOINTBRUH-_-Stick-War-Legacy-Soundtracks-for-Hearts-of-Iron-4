@@ -10,5 +10,9 @@ This Mod Includes
 > 7 Awsome Soundtracks <br>
 > Template Files
 
+### Compatibility 
+> Works with all versions of hearts of Iron 4 <br>
+> Ironman Compatible 
+
 ### Questions
 > Email me at wegj1@hotmail.com
