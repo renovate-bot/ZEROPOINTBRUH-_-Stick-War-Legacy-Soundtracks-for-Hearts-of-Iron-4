@@ -15,8 +15,8 @@ music = {
 	file = "Field_of_Memories.ogg"
 }
 music = {
-	name = "Gates_Of_Hell"
-	file = "Gates_Of_Hell.ogg"
+	name = "Gates_of_Hell"
+	file = "Gates_of_Hell.ogg"
 }
 music = {
 	name = "Gathering_Shadows"
@@ -25,4 +25,8 @@ music = {
 music = {
 	name = "Stick_War_Oblivion"
 	file = "Stick_War_Oblivion.ogg"
+}
+music = {
+    name = "Field_of_Memories_2"
+    file = "Field_of_Memories_2.ogg"
 }

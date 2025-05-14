@@ -1,66 +1,41 @@
-music_station = {
-    name = "stickwar_station"
-    music = {
-        song = "Field_of_Memories"
-        chance = {
-            modifier = {
-                factor = 4
-                has_war = yes
-                is_civil_war = yes
-            }
+music_station = "stickwar_station"
+        music = {
+            song = "Battle_of_the_Shadow_Elves"
+            chance = { modifier = { factor = 3 } }
         }
 
-        song = "Gathering_Shadows"
-        chance = {
-            modifier = {
-                factor = 3
-                has_war = no
-                global_tension > 0.60
-            }
+        music = {
+            song = "Entering_the_Stronghold"
+            chance = { modifier = { factor = 4 } }
         }
 
-        song = "Entering_the_Stronghold"
-        chance = {
-            modifier = {
-                factor = 4
-                has_war = no
-                global_tension > 0.30
-            }
+        music = {
+            song = "Etoll_Battle_Dawn"
+            chance = { modifier = { factor = 3 } }
         }
 
-        song = "Etoll_Battle_Dawn"
-        chance = {
-            modifier = {
-                factor = 3
-                has_war = yes
-                global_tension > 0.50
-            }
+        music = {
+            song = "Field_of_Memories"
+            chance = { modifier = { factor = 3 } }
         }
 
-        song = "Battle_of_the_Shadow_Elves"
-        chance = {
-            modifier = {
-                factor = 3
-                has_war = yes
-            }
+        music = {
+            song = "Field_of_Memories_2"
+            chance = { modifier = { factor = 3 } }
         }
 
-        song = "Gates_Of_Hell"
-        chance = {
-            modifier = {
-                factor = 2
-                has_war = yes
-                global_tension > 0.70
-            }
+        music = {
+            song = "Gates_of_Hell"
+            chance = { modifier = { factor = 2 } }
         }
 
-        song = "Stick_War_Oblivion"
-        chance = {
-            modifier = {
-                factor = 2
-                has_war = yes
-                global_tension > 0.80
-            }
+        music = {
+            song = "Gathering_Shadows"
+            chance = { modifier = { factor = 3 } }
         }
-    }
-}
+
+        music = {
+            song = "Stick_War_Oblivion"
+            chance = { modifier = { factor = 2 } }
+        }
+
