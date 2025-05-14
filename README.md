@@ -48,5 +48,5 @@ Feel free to email with questions, concerns, or requests.
 
 ## 📄 License
 
-Code: [MIT License](./LICENSE)  
+Code: [MIT License](./LICENSE.md)  
 Music: Rights retained by original composers. Used non-commercially for fan purposes only.
